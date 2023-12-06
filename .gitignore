@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vscode
+/integration/fssimplewindow.h
+/integration/fssimplewindow.cpp
+/integration/yssimplesound.h
+/integration/yssimplesound.cpp 
+/integration/mmlplayer.h
+/integration/mmlplayer.cpp
+/integration/yspng.h
+/integration/yspng.cpp
+/integration/ym2612.h
+/integration/ysglfontdata.h
+/integration/ysglfontdata.c
+/integration/mmlplayer.h
+/integration/mmlplayer.cpp
