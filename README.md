@@ -1,5 +1,7 @@
 # blasteroids
 
+See [Documentation](documentation/)
+
 ## Game development project for CMU 24780
 ## Contributions:
 * menu-Author: Jeremy Kilbride
